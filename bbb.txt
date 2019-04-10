@@ -1,0 +1,115 @@
+2019-4-8
+ node 后台  时长:两周
+ node express  koa egg mongodb 数据库 mysql mongoose 扩展
+ vue  2.0 两周
+ vue-cli 2.0
+ vue-cli 3.0 脚手架
+ vue 3.0 19年下半年
+ 
+	服务器渲染
+ 项目
+ 微信小程序  一周
+ mpvue 美团
+ taro 京东
+ wepy 
+ uni-app
+ 
+ react 一周
+ 博客 简书 react
+
+ 字段
+ jq js vue
+ win+r
+ cmd
+ node -v 查询版本
+ node 回车 进入node环境
+ 卸载
+ 盘符
+ c f d
+ 切换盘符
+ d: 回车
+ ctrl+c结束当前命令
+ nmp -v
+ cls 清屏 
+ cd 当前文件夹
+ d:回车
+ ls 清单
+
+ node的发展史
+  创始人 Ryan Dahl
+  发布时间 09年2月 09年5月推广
+  16年火爆，原因前后端分离
+ node的应用场景
+  
+
+node.js不是一种独立的语言，node.js的使用javascript进行编程，运行在javascript引擎上的（V8）
+node没有web容器概念
+
+node的特点
+单线程  非阻塞I/O  事件驱动
+ 当理解透彻后，这三个特点实际上是一回事
+聊天室 图文
+http 服务器模块
+url 地址
+
+
+git
+ 成功表现
+ 鼠标右键
+ git gui  here
+ git bash here
+下载
+svn  代码管理工具
+码云
+
+ 
+2019-4-9
+ fs
+   文件系统  file system
+
+git svn 码云 ：代码管理工具
+ git 千万别轻易该别人代码，别随便动别人的文件夹
+    操作：
+	命令行操作：前提有git账号  github  gitlab
+	可视化工具
+	创建仓库 1、start a project   2、New     public公共 免费 个人选用基本是公共  private私有 收费 美元
+        仓库名称  repository name
+	last
+	cd 项目目录
+	git init 初始化 项目和git建立联系
+	 针对第一次使用git：git config --global user.name‘用户名’git config --global user.password‘密码’
+	git status 查看文件状态
+	git add .文件1 文件2 添加到暂存区 单个文件 ：git add . 添加所有
+	git commit -m ‘第次提交’ 提交
+	git remote add origin master （git仓库地址）链接远程仓库
+	git push  -u origin master 第一次提交  推送
+	git push（git仓库地址）链接远程仓库    除了第一次提交之外的所有提交都采用    推送
+       
+	git pull 拉取
+	master 主分支
+	git branch 显示本地所有分支
+	git branch -r 显示远端分支
+	git branch -a 显示本地和远端所有分支
+	git branch -d 删除本地分支
+	git checkout“分支名称” 切换到当前分支
+	git fetch -p 更新所有分支
+	soucetree 资源树
+	git version 查看git版本
+    如何创建分枝：
+	git branch“分支名称” 创建分支
+	git checkout -b “分支名称”   创建并切换到当前分支
+    为什么创建分支：
+    master 所有内容
+    开发  develop
+    功能分支： feautre
+    测试 test
+    上线 online
+	
+ svn 
+ 管理：集成式管理（svn） 分两端：客户端        服务端  
+       分布式管理（git） 分三端：本地区 暂存区 服务端
+
+
+
+
+
